@@ -1,0 +1,13 @@
+table,
+tr,
+th,
+td {
+   border: 2px solid black;
+   font-size: 22px;
+}
+table {
+   margin: 10% auto;
+}
+th {
+   cursor: pointer;
+}
